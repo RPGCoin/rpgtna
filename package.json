@@ -1,0 +1,13 @@
+{
+  "name": "rpgtna",
+  "version": "0.1.0",
+  "description": "Transaction Nucleic Acid",
+  "main": "index.js",
+  "author": "silence <silence@rpgcoin.gg>",
+  "license": "MIT",
+  "dependencies": {
+    "rpgcore-lib": "github:RPGCoin/rpgcore-lib#master",
+    "rpgd-rpc": "^1.0.0",
+    "dotenv": "^6.0.0"
+  }
+}
